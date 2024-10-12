@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project aims to provide the various sales made in each region. It also indicate the highest regional sales and the most profitable region. It also indicate the items sold in large quantity with the daily. 
+This project aims to provide the various sales made in each region. It also indicate the highest regional sales and the most profitable region. It also indicate the items sold in large quantity with the daily.It also show the realized  revenue, day category.
 
 ### Data sources
 
