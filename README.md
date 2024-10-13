@@ -12,7 +12,7 @@ This data contain the detailed information about sales made in each region.
 
 - Excel - visual report [Download here](https://microsoft.com)
 
-### Diagrams/ Visual Report
+### Reference
 
 
 
