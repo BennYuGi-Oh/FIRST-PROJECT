@@ -6,13 +6,33 @@ This project aims to provide the various sales made in each region. It also indi
 
 ### Data sources
 
-This data contain the detailed information about sales made in each region.
+This data contain the detailed information about sales made in each region. It is an open data that was freely shared and downloaded from Skilharvest training.
 
 ### Tools used
 
 - MsExcel - visual report [Download here](https://microsoft.com)
+  i. This is the tool majorly used for my Analysis.
+  ii. It helps to analyse and pivot data.
+- Google sheet
 
-### Reference
+### Data cleaning and Preparation
+
+Here,the following were perfomed:
+   1. Data loading and Inspection.
+   2. Data cleaning and formatting
+   3. Handling missing variables.
+
+      
+### Exploratory Data Analysis
+
+This involved the exploring of data to answer questions about the data such as;
+   i. What line of business has the most sales?
+   ii. Which of region generated the most revenue?
+   iii. what realised more revenue?
+
+### Data Analysis
+
+This is where some basic lines of codes or queries of expressions used during analysis.
 
 ![REVby busin](https://github.com/user-attachments/assets/16df61d2-4c6c-4af5-b6dd-54a836c8257f)
 
