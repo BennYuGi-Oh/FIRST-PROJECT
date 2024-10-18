@@ -10,7 +10,7 @@ This data contain the detailed information about sales made in each region.
 
 ### Tools
 
-- Excel - visual report [Download here](https://microsoft.com)
+- MsExcel - visual report [Download here](https://microsoft.com)
 
 ### Reference
 
