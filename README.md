@@ -1,4 +1,12 @@
 # Regional Sales Document Project
+## Table of content
+## [Project Overview](#project-overview)
+## [Data sources](#data-sources)
+## [Tools used](#tools-used) 
+## [Data cleaning and Preparation](#data-cleaning-and-preparation)
+## [Exploratory Data Analysis](#exploratory-data-analysis)
+## [Data Analysis](#data-analysis)
+## [Inference / Insight](#inference-/-insight)
 
 ### Project Overview
 
@@ -11,7 +19,10 @@ This data contain the detailed information about sales made in each region. It i
 ### Tools used
 
 - MsExcel - visual report [Download here](https://microsoft.com)
+
+  
   i. This is the tool majorly used for my Analysis.
+  
   ii. It helps to analyse and pivot data.
 - Google sheet
 
@@ -32,7 +43,7 @@ This involved the exploring of data to answer questions about the data such as;
 
 ### Data Analysis
 
-This is where some basic lines of codes or queries of expressions used during analysis.
+This is where some basic lines of codes of expressions used during analysis. 
 
 ![REVby busin](https://github.com/user-attachments/assets/16df61d2-4c6c-4af5-b6dd-54a836c8257f)
 
@@ -55,9 +66,9 @@ This is where some basic lines of codes or queries of expressions used during an
 
 ![revenue jpg1](https://github.com/user-attachments/assets/1ceeeaa1-ec0b-47fe-9491-1a3a2212397d)
 
-### Infernce / Insight 
+### Inference / Insight 
 
   1. The company sales have made lots of profit in the year 2014.
   2. Service plan realised highest revenue amonge the line of buisness.
   3. North east is the most profitable region.
-  4. 
+   
