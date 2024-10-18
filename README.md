@@ -33,3 +33,7 @@ This data contain the detailed information about sales made in each region.
 
 
 ![rev](https://github.com/user-attachments/assets/f8313517-078e-42b6-86e4-5cd75f61b477)
+
+![REG](https://github.com/user-attachments/assets/008e34b1-8762-41b0-a2fa-6f2410c896e2)
+
+![revenue jpg1](https://github.com/user-attachments/assets/1ceeeaa1-ec0b-47fe-9491-1a3a2212397d)
