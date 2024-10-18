@@ -8,7 +8,7 @@ This project aims to provide the various sales made in each region. It also indi
 
 This data contain the detailed information about sales made in each region.
 
-### Tools
+### Tools used
 
 - MsExcel - visual report [Download here](https://microsoft.com)
 
@@ -37,4 +37,7 @@ This data contain the detailed information about sales made in each region.
 
 ### Infernce / Insight 
 
-  1. The company sales have made lots of profit in the year  
+  1. The company sales have made lots of profit in the year 2014.
+  2. Service plan realised highest revenue amonge the line of buisness.
+  3. North east is the most profitable region.
+  4. 
